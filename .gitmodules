@@ -1,0 +1,8 @@
+[submodule "rehearsal_mysubaru"]
+	path = rehearsal_mysubaru
+	url = https://github.com/SBR-ChikaraIwasaki/rehearsal_mysubaru.git
+	branch = staging
+[submodule "rehearsal_telema"]
+	path = rehearsal_telema
+	url = https://github.com/SBR-ChikaraIwasaki/rehearsal_telema.git
+	branch = staging
